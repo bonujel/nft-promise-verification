@@ -11,6 +11,14 @@
 
 **自动化审计工具**：分析NFT项目方在Twitter/官网的承诺，对比链上实际行为，生成"画饼指数"评分（0-100分）。
 
+## 🖼️ 界面展示
+
+![项目界面](./nft-promise-verification/frontend/Snipaste_2026-02-01_11-53-16.png)
+
+## 🎬 Demo 演示
+
+观看完整演示视频：[点击查看](https://drive.google.com/file/d/1WJ-ynQK_ikOffIlPpxCVk8DBqakiRkwa/view?usp=sharing)
+
 ## ✨ 为什么需要这个工具？
 
 在NFT市场中，项目方常常"画饼"而不兑现承诺。本项目帮你：
