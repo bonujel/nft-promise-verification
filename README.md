@@ -15,11 +15,11 @@
 
 ### 项目搜索界面
 
-![界面1](./nft-promise-verification/frontend/界面1.png)
+![项目搜索界面](./nft-promise-verification/frontend/ui-search.png)
 
 ### 项目审计结果
 
-![界面2](./nft-promise-verification/frontend/界面2.png)
+![项目审计结果](./nft-promise-verification/frontend/ui-result.png)
 
 ## 🎬 Demo 演示
 
