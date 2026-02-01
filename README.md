@@ -20,6 +20,8 @@
 
 ![项目审计结果](./nft-promise-verification/frontend/ui-result.png)
 
+##项目演示PPT
+[项目演示 PPT](NFT_Promise_Verification.pdf)
 ## 🎬 Demo 演示
 
 观看完整演示视频：[点击查看](https://drive.google.com/file/d/1WJ-ynQK_ikOffIlPpxCVk8DBqakiRkwa/view?usp=sharing)
