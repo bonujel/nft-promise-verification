@@ -1,5 +1,4 @@
 # 🔍 TRUST NO ONE 画饼粉碎机
-![Uploading image.png…]()
 
 > 揭露NFT项目的"画饼"行为，量化项目可信度
 
