@@ -13,7 +13,13 @@
 
 ## 🖼️ 界面展示
 
-![项目界面](./nft-promise-verification/frontend/Snipaste_2026-02-01_11-53-16.png)
+### 项目搜索界面
+
+![界面1](./nft-promise-verification/frontend/界面1.png)
+
+### 项目审计结果
+
+![界面2](./nft-promise-verification/frontend/界面2.png)
 
 ## 🎬 Demo 演示
 
