@@ -21,10 +21,10 @@
 ![项目审计结果](./nft-promise-verification/frontend/ui-result.png)
 
 ### 项目演示PPT
-[项目演示 PPT](NFT_Promise_Verification.pdf)
+[项目演示 PPT](Trust_No_One画饼粉碎机.pdf)
 ## 🎬 Demo 演示
 
-观看完整演示视频：[点击查看](https://drive.google.com/file/d/1WJ-ynQK_ikOffIlPpxCVk8DBqakiRkwa/view?usp=sharing)
+观看完整演示视频：[点击查看](https://drive.google.com/file/d/12n_OS0NiTFqyJ8bAp5TmKRxuDvlLFIgh/view?usp=drive_link)
 
 ## ✨ 为什么需要这个工具？
 
